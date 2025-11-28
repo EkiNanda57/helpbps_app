@@ -9,7 +9,7 @@
         ["nama" => "Survei Kebutuhan Data", "url" => "https://skd.web.bps.go.id/SKD2025/web/entri/responden/blok1?token=o2GH3mCii8atnScv7fspJ2jtsVpF0_Q80eVfnMuvSeeOzFy92PrsFX7eXRVZi3t0JRi5bN_rjBAdVjQMpex_lDx_gkhNXP0yrSVW", "warna" => "blue"],
         ["nama" => "Publikasi Digital", "url" => "https://jemberkab.bps.go.id/id", "warna" => "orange"],
         ["nama" => "HaloPST!", "url" => "https://halopst.web.bps.go.id/", "warna" => "green"],
-        ["nama" => "Arsip Publikasi", "url" => "https://drive.google.com/drive/folders/1nGo-cLbu3ObCHseoYWkiEg-ejFDT7tUC?usp=drive_link", "warna" => "yellow"],
+        ["nama" => "Arsip Publikasi", "url" => "https://publikasi.bpsjember.com/pengguna", "warna" => "yellow"],
     ];
 @endphp
 
